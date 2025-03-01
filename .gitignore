@@ -24,3 +24,5 @@ hs_err_pid*
 replay_pid*
 sistema-smart-tv/.vscode/settings.json
 javaDoc/javadoc/.vscode/settings.json
+javaDoc/.vscode/settings.json
+estruturasderepeticao/.vscode/settings.json
