@@ -26,3 +26,21 @@ sistema-smart-tv/.vscode/settings.json
 javaDoc/javadoc/.vscode/settings.json
 javaDoc/.vscode/settings.json
 estruturasderepeticao/.vscode/settings.json
+# Ignorar diretórios do sistema
+/AppData/
+/Downloads/
+/Desktop/
+/Videos/
+/Pictures/
+/OneDrive/
+/VirtualBox VMs/
+/NTUSER.DAT*
+/*.log
+
+# Ignorar arquivos específicos do usuário
+.bash_history
+.gitconfig
+.gradle/
+.vscode/
+.android/
+.eclipse/
